@@ -1,6 +1,6 @@
-# Taste of India - A Food Ordering App
+# Order Food - A Food Ordering App
 
-Welcome to Taste of India where the love for great food meets the convenience of online ordering. Our food ordering app provides a seamless and delightful experience for users looking to explore a variety of cuisines, discover local favorites, and satisfy their cravings with just a few clicks.
+Welcome to Order Food where the love for great food meets the convenience of online ordering. Our food ordering app provides a seamless and delightful experience for users looking to explore a variety of cuisines, discover local favorites, and satisfy their cravings with just a few clicks.
 
 ## Key Features:
 
@@ -64,5 +64,5 @@ Welcome to Taste of India where the love for great food meets the convenience of
 2. Install necessary packages using "npm i [package-name]" mentioned in package.json file.
 
 ### Connect with me 
--  [Linkedin](https://www.linkedin.com/in/vishakha-singhal-18983b1bb/)
--  [Github](https://github.com/vishakha-singhal01)
+-  [Linkedin](https://www.linkedin.com/in/swadesh-kumar)
+-  [Github](https://github.com/swadesh-0287)
